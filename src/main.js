@@ -1,4 +1,4 @@
-var app = angular.module('wintest',['winjs']);
+var app = angular.module('app',[]);
 
 app.controller('mainController', maincontroller);
 
